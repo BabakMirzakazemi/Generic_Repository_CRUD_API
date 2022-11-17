@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyMiniProject.Models/1.0.0": {
+        "dependencies": {
+          "MyMiniProject.Common": "1.0.0"
+        },
+        "runtime": {
+          "MyMiniProject.Models.dll": {}
+        }
+      },
+      "MyMiniProject.Common/1.0.0": {
+        "runtime": {
+          "MyMiniProject.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMiniProject.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMiniProject.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,88 @@
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.deps.json
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CopyComplete
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\refint\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\ref\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.deps.json
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CopyComplete
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\refint\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\ref\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.deps.json
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CopyComplete
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\refint\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\ref\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Common.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Common.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.deps.json
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Common.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.DataLayer.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Models.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Services.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Common.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.csproj.CopyComplete
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\refint\MyMiniProject.IOC.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\MyMiniProject.IOC.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.IOC\obj\Debug\net6.0\ref\MyMiniProject.IOC.dll

@@ -1,0 +1,48 @@
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.deps.json
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\refint\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\ref\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.deps.json
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\refint\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\MyMiniProject\backup\5 CRUD\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\ref\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.deps.json
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\refint\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\ref\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.deps.json
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\bin\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.AssemblyReference.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfoInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.AssemblyInfo.cs
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.csproj.CoreCompileInputs.cache
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\refint\MyMiniProject.Entities.dll
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\MyMiniProject.Entities.pdb
+D:\my_job\programming\TestProjects\hollnad_company\main\MyMiniProject\MyMiniProject.Entities\obj\Debug\net6.0\ref\MyMiniProject.Entities.dll
